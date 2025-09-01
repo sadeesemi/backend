@@ -1,0 +1,630 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\dtos\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\dtos\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\models\\watchedmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\models\\watchedmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\controllers\\watchlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\controllers\\watchlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\dtos\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\dtos\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\dtos\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\dtos\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\controllers\\watchedmoviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\controllers\\watchedmoviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\models\\watchlistmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\models\\watchlistmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\migrations\\20250825084723_fixwatchlistmovierelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\migrations\\20250825084723_fixwatchlistmovierelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\migrations\\20250825072740_makemovieidnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\migrations\\20250825072740_makemovieidnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\models\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\models\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\dtos\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\dtos\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\migrations\\20250822182218_addrefreshtokencolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\migrations\\20250822182218_addrefreshtokencolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\migrations\\20250822180248_addrefreshtokentouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\migrations\\20250822180248_addrefreshtokentouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\dtos\\editprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\dtos\\editprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|c:\\users\\sadee\\source\\repos\\moviequest_proj\\moviequest_proj\\moviequest_proj.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{638693E4-1DC0-4118-938E-EE612554C264}|Moviequest_proj\\Moviequest_proj.csproj|solutionrelative:moviequest_proj\\moviequest_proj.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1731663626:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\appsettings.json",
+              "RelativeDocumentMoniker": "Moviequest_proj\\appsettings.json",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\appsettings.json",
+              "RelativeToolTip": "Moviequest_proj\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T18:54:23.934Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\User.cs",
+              "RelativeToolTip": "Moviequest_proj\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:30:31.307Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Review.cs",
+              "RelativeToolTip": "Moviequest_proj\\Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:30:17.673Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Movie.cs",
+              "RelativeToolTip": "Moviequest_proj\\Models\\Movie.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:29:54.92Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Program.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Program.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Program.cs",
+              "RelativeToolTip": "Moviequest_proj\\Program.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAcwIoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:22:21.092Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Moviequest_proj\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:18:52.554Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\FilterDto.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Dtos\\FilterDto.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\FilterDto.cs",
+              "RelativeToolTip": "Moviequest_proj\\Dtos\\FilterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:30:47.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Services\\RecommendationService.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Services\\RecommendationService.cs",
+              "RelativeToolTip": "Moviequest_proj\\Services\\RecommendationService.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAiwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:50:00.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Moviequest_proj\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T05:44:59.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Request.cs",
+              "RelativeToolTip": "Moviequest_proj\\Models\\Request.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:30:12.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Moviequest_proj\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAmwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:53:55.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\RequestDto.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Dtos\\RequestDto.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\RequestDto.cs",
+              "RelativeToolTip": "Moviequest_proj\\Dtos\\RequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:37:49.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Controllers\\RequestController.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "Moviequest_proj\\Controllers\\RequestController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAiwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:37:18.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250825084723_FixWatchListMovieRelation.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Migrations\\20250825084723_FixWatchListMovieRelation.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Migrations\\20250825084723_FixWatchListMovieRelation.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Migrations\\20250825084723_FixWatchListMovieRelation.cs",
+              "RelativeToolTip": "Moviequest_proj\\Migrations\\20250825084723_FixWatchListMovieRelation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:47:27.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WatchListMovie.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\WatchListMovie.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Models\\WatchListMovie.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\WatchListMovie.cs",
+              "RelativeToolTip": "Moviequest_proj\\Models\\WatchListMovie.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA4wAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:34:05.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250825072740_MakeMovieIDNullable.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Migrations\\20250825072740_MakeMovieIDNullable.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Migrations\\20250825072740_MakeMovieIDNullable.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Migrations\\20250825072740_MakeMovieIDNullable.cs",
+              "RelativeToolTip": "Moviequest_proj\\Migrations\\20250825072740_MakeMovieIDNullable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:27:49.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WatchlistsController.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\WatchlistsController.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Controllers\\WatchlistsController.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\WatchlistsController.cs",
+              "RelativeToolTip": "Moviequest_proj\\Controllers\\WatchlistsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:05:31.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Dtos\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\ReviewDto.cs",
+              "RelativeToolTip": "Moviequest_proj\\Dtos\\ReviewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T08:20:28.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Moviequest_proj\\Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T08:15:38.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250822182218_AddRefreshTokenColumns.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Migrations\\20250822182218_AddRefreshTokenColumns.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Migrations\\20250822182218_AddRefreshTokenColumns.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Migrations\\20250822182218_AddRefreshTokenColumns.cs",
+              "RelativeToolTip": "Moviequest_proj\\Migrations\\20250822182218_AddRefreshTokenColumns.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:22:27.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250822180248_AddRefreshTokenToUser.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Migrations\\20250822180248_AddRefreshTokenToUser.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Migrations\\20250822180248_AddRefreshTokenToUser.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Migrations\\20250822180248_AddRefreshTokenToUser.cs",
+              "RelativeToolTip": "Moviequest_proj\\Migrations\\20250822180248_AddRefreshTokenToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:09:15.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\TokenRequest.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Dtos\\TokenRequest.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\TokenRequest.cs",
+              "RelativeToolTip": "Moviequest_proj\\Dtos\\TokenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:58:33.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WatchedMoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\WatchedMoviesController.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Controllers\\WatchedMoviesController.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\WatchedMoviesController.cs",
+              "RelativeToolTip": "Moviequest_proj\\Controllers\\WatchedMoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:25:10.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\EditProfileDto.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Dtos\\EditProfileDto.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\EditProfileDto.cs",
+              "RelativeToolTip": "Moviequest_proj\\Dtos\\EditProfileDto.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:29:01.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Moviequest_proj\\Controllers\\GenresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:51:14.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovieCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\MovieCreateDto.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Dtos\\MovieCreateDto.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\MovieCreateDto.cs",
+              "RelativeToolTip": "Moviequest_proj\\Dtos\\MovieCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:47:50.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Moviequest_proj\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAALMBAAAAAAAAAAAUwMkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:10:10.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Moviequest_proj\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:29:38.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Moviequest_proj\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:11:52.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Moviequest_proj\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:31:07.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Genre.cs",
+              "RelativeToolTip": "Moviequest_proj\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:29:03.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MovieGenre.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\MovieGenre.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Models\\MovieGenre.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\MovieGenre.cs",
+              "RelativeToolTip": "Moviequest_proj\\Models\\MovieGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:30:01.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Notification.cs",
+              "RelativeToolTip": "Moviequest_proj\\Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:30:06.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Moviequest_proj\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:28:22.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Watchlist.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Watchlist.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Models\\Watchlist.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\Watchlist.cs",
+              "RelativeToolTip": "Moviequest_proj\\Models\\Watchlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:30:42.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WatchedMovie.cs",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\WatchedMovie.cs",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Models\\WatchedMovie.cs",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Models\\WatchedMovie.cs",
+              "RelativeToolTip": "Moviequest_proj\\Models\\WatchedMovie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:30:37.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Moviequest_proj",
+              "DocumentMoniker": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Moviequest_proj.csproj",
+              "RelativeDocumentMoniker": "Moviequest_proj\\Moviequest_proj.csproj",
+              "ToolTip": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Moviequest_proj.csproj",
+              "RelativeToolTip": "Moviequest_proj\\Moviequest_proj.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T18:25:32.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
