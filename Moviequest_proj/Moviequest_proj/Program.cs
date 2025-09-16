@@ -20,11 +20,11 @@ builder.Services.AddControllers()
     });
 
 // -------------------- CORS (React) --------------------
-// Must match your frontend URL and allow credentials for cookies
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
-        policy.WithOrigins("http://localhost:3000") // React dev server
+        policy.WithOrigins("http://localhost:3000") 
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials());
@@ -58,8 +58,7 @@ builder.Services.AddAuthentication(options =>
     {
         ValidateIssuer = true,
         ValidateAudience = true,
-        ValidateLifetime = false, // ⚠️ ignore expiry
-
+        ValidateLifetime = false, 
         ValidateIssuerSigningKey = true,
         ValidIssuer = jwt["Issuer"],
         ValidAudience = jwt["Audience"],
@@ -141,7 +140,7 @@ app.Use(async (context, next) =>
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
-app.UseCors("AllowFrontend"); // must be BEFORE auth for cookies
+app.UseCors("AllowFrontend");
 
 app.UseAuthentication();
 app.UseAuthorization();
