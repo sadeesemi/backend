@@ -6076,11 +6076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Moviequest_proj.csproj",
+      "projectUniqueName": "D:\\backend\\Moviequest_proj\\Moviequest_proj\\Moviequest_proj.csproj",
       "projectName": "Moviequest_proj",
-      "projectPath": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\Moviequest_proj.csproj",
+      "projectPath": "D:\\backend\\Moviequest_proj\\Moviequest_proj\\Moviequest_proj.csproj",
       "packagesPath": "C:\\Users\\sadee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sadee\\source\\repos\\Moviequest_proj\\Moviequest_proj\\obj\\",
+      "outputPath": "D:\\backend\\Moviequest_proj\\Moviequest_proj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sadee\\AppData\\Roaming\\NuGet\\NuGet.Config",

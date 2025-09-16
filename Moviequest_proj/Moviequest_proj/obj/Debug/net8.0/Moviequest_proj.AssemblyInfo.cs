@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Moviequest_proj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bd8427b205a5429078ff9619b5b79c2531f3648")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3824f9aee2f766cd8e8689072be54396cdfe4fb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Moviequest_proj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Moviequest_proj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
